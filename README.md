@@ -1,4 +1,4 @@
-Môn: Trí tuệ nhân tạo - Phan Thị Huyền Trang GV: Phan Thị Huyền Trang Họ và tên: Huỳnh Anh Nguyên - 23110134
+Môn: Trí tuệ nhân tạo - GV: Phan Thị Huyền Trang Họ và tên: Huỳnh Anh Nguyên - 23110134
 Viết code TẠO GIAO DIỆN, VÀ CÁC THUẬT TOÁN cho trò chơi đặt 8 quân hậu lên bàn cờ vua
 Các thuật toán:
 - Nhóm 1: BFS, DFS, DLS, IDS
